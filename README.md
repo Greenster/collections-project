@@ -1,7 +1,8 @@
-#Java Automation Project
-##Base Point for Java Automation Projects
+#Collections Project for  Automation Project
+##Collections for Java Automation Projects
 
-*Project for creating automation tests using Selenium WebDriver and TestNG.*
+*Project for creating collections for automation testing using Selenium WebDriver and TestNG.*
+*Use of String Arrays, HashSet, LinkedList, HashMap, Set, List, Map, ArrayList etc.*
 
 **Java 7**
 
